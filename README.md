@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Eri Thin Myat
+# 👋 Hello there, I'm Aye Thin Myat
 
 *"I love exploring how machines can learn and help us make better decisions."*
 
