@@ -25,6 +25,16 @@ After years of empowering others through language, I’ve discovered a new calli
 
 ---
 
+### Tools
+
+- Jupyter Notebook
+- Google Colaboratory
+- Visual Studio Code
+- Pycharm
+- Git/GitHub
+
+---
+
 ## 🚀 Current Work
 
 - 🌱 Learning **Python** and foundational programming concepts
@@ -36,7 +46,7 @@ After years of empowering others through language, I’ve discovered a new calli
 ## 👩‍🏫 Teaching Experience
 
 - Over **7 years** of experience as a Japanese language teacher
-- Loves helping others grow and achieve their goals through education
+- Help others grow and achieve their goals through education
 
 ---
 
